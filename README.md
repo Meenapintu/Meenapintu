@@ -1,37 +1,67 @@
-# Hi there, I'm Meena Pintu 👋
-
-Welcome to my GitHub profile! I'm a passionate developer with a strong focus on building scalable solutions and contributing meaningfully to both personal and professional projects.
-
----
-
-## 🚀 Quick Overview
-
-```
-💼 Professional Developer | 🎯 Problem Solver | 🌱 Continuous Learner | 💡 Open Source Enthusiast
-```
-
----
-
-## 📊 GitHub Statistics
-
-### 🏢 Corporate Workspace Performance
+# 👋 Hey there! I'm Pintu Lal Meena
 
 <div align="center">
-  <h3>📈 Professional Growth Journey (@pintu-lal)</h3>
+  <p>
+    <strong>Full-Stack Engineer | AI Enthusiast | Software Innovator</strong><br>
+    <em>Building scalable solutions that solve real-world problems</em>
+  </p>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meenapintu/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meenapintu)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-me.yehigo.com-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://me.yehigo.com/)
+  [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-4285F4?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/Meenapintu/resume/blob/main/resume_2page.pdf)
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a **curious learner, software engineer, and lifelong tinkerer** with experience in designing, building, and deploying scalable solutions. I thrive on challenges, enjoy exploring new stacks, and collaborate across teams to bring ambitious ideas to life.
+
+Currently, I'm developing **AI-powered applications** that transform video creation and visual content generation. Passionate about engineering excellence, continuous learning, and contributing to the open-source community.
+
+---
+
+## 💡 What I Do
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏗️ Engineering Excellence</h3>
+      <p>Design, code, and maintain robust web and backend systems for reliability and scale.</p>
+    </td>
+    <td width="50%">
+      <h3>🤖 AI & Innovation</h3>
+      <p>Develop cutting-edge AI applications including text-to-video generation with audio, subtitles & sharing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📚 Learning & Exploring</h3>
+      <p>Push boundaries with new tools, frameworks, and open-source collaborations.</p>
+    </td>
+    <td width="50%">
+      <h3>🤝 Sharing & Connecting</h3>
+      <p>Publish code, research, and resources. Grow network through meaningful collaborations.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 My GitHub Statistics
+
+### 🏢 Professional Performance (@pintu-lal)
+
+<div align="center">
   <a href="https://github.com/pintu-lal">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pintu-lal&theme=tokyonight&hide_border=false&border_radius=8" alt="pintu-lal's Contribution Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pintu-lal&theme=tokyonight&hide_border=false&border_radius=8" alt="pintu-lal's Professional Streak" width="100%" />
   </a>
 </div>
 
-**Corporate Account**: @pintu-lal | **Streak Status**: Active 🔥
-
 ---
 
-### 👤 Personal Development Dashboard
-
-<div align="center">
-  <h3>🎨 Personal Project Metrics (@MeenaPintu)</h3>
-</div>
+### 👤 Personal Projects Metrics
 
 <div align="center">
   <a href="https://github.com/Meenapintu">
@@ -44,10 +74,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 
 ---
 
-## 🔥 Personal Contribution Performance
+### 🔥 Personal Contribution Streak
 
 <div align="center">
-  <h3>📅 Contribution Streak (@MeenaPintu)</h3>
   <a href="https://github.com/Meenapintu">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Meenapintu&theme=tokyonight&hide_border=false&border_radius=8" alt="Meena Pintu's Contribution Streak" width="100%" />
   </a>
@@ -55,9 +84,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 
 ---
 
-## 💻 Tech Stack & Skills
+## 💼 Professional Experience
 
-<div align="center">
+| Role | Expertise | Focus Areas |
+|------|-----------|-------------|
+| **Full-Stack Engineer** | Web & Backend Systems | Scalable architecture, microservices, API design |
+| **AI Developer** | Machine Learning & AI | Computer vision, NLP, text-to-video generation |
+| **Open Source Contributor** | Community & Collaboration | Building tools, sharing knowledge, team collaboration |
+
+---
+
+## 🛠️ Tech Stack & Skills
 
 ### 🔤 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,7 +103,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### 🚀 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -76,95 +112,97 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Developer Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🛠️ Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🤖 AI & ML Tools
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+### 🎬 AI-Powered Video Application
+**Next-gen video creation tool**  
+Transform text into engaging videos with AI-generated audio, subtitles, and seamless sharing  
+[Explore Project](https://github.com/Meenapintu)
+
+### 💳 Credit Management System
+**Financial tracking & analysis**  
+Personal finance management with advanced tracking and insights  
+[View Repository](https://github.com/Meenapintu/credit_management)
+
+### 📊 Data Science & ML Projects
+**Bike-Sharing Systems Prediction | Spam Detection | Travel Cost Optimization**  
+Applied ML models for real-world problem solving  
+[See All Projects](https://github.com/Meenapintu?tab=repositories)
 
 </div>
 
 ---
 
-## 🎯 About This Profile
+## 🎓 Education & Learning
 
-| Aspect | Details |
-|--------|---------|
-| 💼 **Professional Account** | [@pintu-lal](https://github.com/pintu-lal) - Corporate workspace activity |
-| 🎓 **Personal Account** | [@MeenaPintu](https://github.com/Meenapintu) - Personal projects & learning |
-| 🔒 **Security** | ✅ No PATs | ✅ No GitHub Actions | ✅ No Email Sharing |
-| 🌟 **Focus** | Scalable Solutions • Clean Code • Best Practices • Open Source |
-| 🏆 **Repositories** | Multiple projects across personal & professional domains |
+- 🎯 **Continuous Learning:** Actively exploring cutting-edge technologies
+- 📚 **Data Science & AI:** Machine learning, deep learning, NLP expertise
+- 💻 **Full-Stack Development:** End-to-end web and backend solutions
+- 🔬 **Research & Innovation:** Contributing to open-source and research projects
 
 ---
 
-## 🏆 Key Highlights
+## 🌟 Key Highlights
 
-- 💻 **Full-Stack Developer** experienced in modern web & backend technologies
-- 📚 **Continuous Learner** staying updated with latest tech trends
-- 🤝 **Collaborative Developer** passionate about open-source contributions
-- ⚡ **Performance-Oriented** dedicated to writing efficient, scalable code
-- 📖 **Documentation First** believer in clear, maintainable code
-- 🔄 **Active Contributor** with consistent development momentum
+✨ **Professional Growth**
+- Active contributor with consistent development momentum
+- 174+ professional contributions and growing
+- Expertise across multiple technology stacks
+- Full-stack capability from frontend to backend & AI
+
+🚀 **Innovation Focus**
+- Developing next-generation AI applications
+- Combining software engineering with machine learning
+- Building scalable, production-ready systems
+
+🤝 **Community Involvement**
+- Open-source contributor and maintainer
+- Knowledge sharing through code and documentation
+- Collaborative problem-solver
+
+📈 **Performance**
+- Consistent contribution patterns
+- High code quality and best practices
+- Reliability and dedication to excellence
 
 ---
 
-## 🌐 Let's Connect
+## 📬 Let's Connect & Build Together!
+
+I'm always excited about:
+- 🤝 **Collaborating** on innovative and impactful projects
+- 💡 **Discussing** new technologies, ideas, and best practices
+- 📚 **Sharing** knowledge and learning from brilliant minds
+- 🎓 **Mentoring** and supporting the developer community
+- 🌟 **Creating** products that make a real difference
 
 <div align="center">
 
-[![GitHub - Personal](https://img.shields.io/badge/GitHub-Personal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meenapintu)
-[![GitHub - Corporate](https://img.shields.io/badge/GitHub-Corporate%20%28pintu--lal%29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pintu-lal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meena-pintu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MeenaPintu)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pintulalmee@gmail.com)
-
-</div>
+**Ready to work together?**  
+📧 [Email](mailto:pintulalmee@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/meenapintu/) • 🌐 [Portfolio](https://me.yehigo.com/) • 📄 [Resume](https://github.com/Meenapintu/resume/blob/main/resume_2page.pdf)
 
 ---
 
-## 🚀 What I'm Working On
+### ⭐ If you find my work valuable, drop a star! It helps others discover great projects.
 
-- 🔨 Building scalable backend systems and microservices
-- 🎨 Crafting beautiful, responsive web applications
-- 📊 Exploring AI/ML integration in modern applications
-- 📖 Contributing to open-source projects
-- 💡 Learning new frameworks and technologies
-- 🌍 Building products that impact the world
+<img src="https://img.shields.io/static/v1?label=Made%20with&message=%E2%9D%A4%EF%B8%8F&color=red&style=flat-square" alt="Made with Love" />
 
----
+<p><em>Let's innovate, build, and grow together! 🚀</em></p>
 
-## 📈 Recent Activity
-
-Contributing across multiple repositories with a focus on:
-- Professional portfolio development
-- Financial tracking systems
-- Web development projects
-- Open-source initiatives
-
----
-
-## 💬 Let's Build Something Amazing Together!
-
-I'm always excited to:
-- 🤝 **Collaborate** on interesting and impactful projects
-- 💡 **Discuss** new ideas, technologies, and best practices
-- 📚 **Share** knowledge and learn from the community
-- 🎓 **Mentor** and help others with their development journey
-- 🌟 **Contribute** to open-source initiatives
-
-Feel free to reach out, explore my repositories, or collaborate on a project!
-
----
-
-<div align="center">
-  
-  ### ⭐ If you find my work interesting, consider giving it a star!
-  
-  <img src="https://img.shields.io/static/v1?label=Made%20with&message=%E2%9D%A4%EF%B8%8F&color=red&style=flat-square" alt="Made with Love" />
-  
-  <p><em>Last Updated: September 2024</em></p>
-  
 </div>
