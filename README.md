@@ -52,17 +52,16 @@
   - ✅ **1.8% reduction** in user aborts (Send Money)
   - ✅ **7.28% increase** in ASR (Send Money)
   - ✅ **100% visibility** into customer journey with BI insights
+  - ✅**P90 Latency Reduction**:
+      - Android: 5s → 540ms ( **90%** improvement)
+     - iOS: **85%** improvement
 
 #### 🏗️ **Distributed Systems & Scalable Caching Architecture**
 - Migrated high-volume monolithic services to AWS-hosted microservices
 - Designed storage-agnostic caching framework (Decorator pattern) with L1/L2 levels
 - **Achievement**: 53% reduction in P90 latency for critical payment paths
-- Built automated, pluggable update strategies for cache invalidation
+- Built automated, pluggable update strategies for cache invalidation 
 
-#### ⚡ **Performance Optimization at Scale**
-- **P90 Latency Reduction**:
-  - Android: 5s → 540ms (90% improvement)
-  - iOS: 85% improvement
 - Optimized authentication and access-control paths
 - Streamlined backend, mobile (Android/iOS), and frontend layers
 
