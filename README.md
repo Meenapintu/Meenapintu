@@ -59,7 +59,6 @@
 #### 🏗️ **Distributed Systems & Scalable Caching Architecture**
 - Migrated high-volume monolithic services to AWS-hosted microservices
 - Designed storage-agnostic caching framework (Decorator pattern) with L1/L2 levels
-- **Achievement**: 53% reduction in P90 latency for critical payment paths
 - Built automated, pluggable update strategies for cache invalidation 
 
 - Optimized authentication and access-control paths
@@ -247,38 +246,6 @@ Indian Institute of Technology (IIT) Bombay | Jul 2012 - Aug 2017
 
 ---
 
-## 🌟 Key Achievements
-
-✨ **Leadership & Scale**
-- Led 6 cross-functional teams across distributed systems & payments
-- Mentored 12+ engineers on platform thinking and system design
-- Improved collaboration for 100+ stakeholders
-- Technical Lead with SDE3 scope (Amazon)
-
-🏗️ **System Architecture & Design**
-- Transformed fragmented services into unified, plugin-based platform
-- Architected storage-agnostic caching framework
-- Designed cloud-native AI infrastructure for 100X scale
-- Built secure, encrypted P2P communication protocols
-
-📈 **Business Impact**
-- 50% reduction in feature launch effort
-- 7% increase in Conversion Rate
-- 1.8% reduction in user aborts
-- 7.28% increase in transaction success rate
-- 90% P90 latency reduction (5s → 540ms)
-
-🚀 **Innovation & Technical Excellence**
-- Built production-grade AI pipelines (Kineti platform)
-- Designed semi-supervised learning for IoT (62.5% faster convergence)
-- Achieved 99.99% device fleet reliability (1,000+ devices)
-- Created modular, reusable firmware components
-
-🤝 **Community & Open Source**
-- Author of multiple production-ready libraries
-- VS Code Marketplace contributor
-- Open source ecosystem contributor
-- Mentor and knowledge sharer
 
 ---
 
