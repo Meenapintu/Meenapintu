@@ -1,132 +1,180 @@
 # Hi there, I'm Meena Pintu 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong focus on building scalable solutions and contributing meaningfully to both personal and professional projects. This space celebrates my journey in software development and open-source contributions.
+Welcome to my GitHub profile! I'm a passionate developer with a strong focus on building scalable solutions and contributing meaningfully to both personal and professional projects.
 
 ---
 
-## 🚀 About Me
+## 🚀 Quick Overview
 
-- 💼 **Professional Developer** working in a corporate environment
-- 🎯 **Passionate** about clean code, best practices, and continuous learning
-- 🌱 **Always Learning** new technologies and improving my craft
-- 💡 **Problem Solver** dedicated to creating impactful solutions
+```
+💼 Professional Developer | 🎯 Problem Solver | 🌱 Continuous Learner | 💡 Open Source Enthusiast
+```
 
 ---
 
-## 🏢 Corporate Workspace Activity
+## 📊 Contribution Analytics
 
-Here's my contribution activity from my professional corporate GitHub account (**@pintu-lal**):
+### 🏢 Corporate Workspace Performance
 
-<p align="center">
+<div align="center">
+  <h3>📈 Professional Growth Journey</h3>
   <a href="https://github.com/pintu-lal">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pintu-lal&theme=tokyonight&hide_border=true" alt="pintu-lal's Contribution Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pintu-lal&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="pintu-lal's Contribution Streak" width="100%" />
   </a>
-</p>
+</div>
 
-*This card displays my corporate account's public contribution metrics, showcasing 174+ professional contributions and work volumes—all without using tokens or account links.*
+**Corporate Account**: @pintu-lal | **Public Contributions**: 174+ | **Streak Status**: Active 🔥
 
 ---
 
-## 👤 Personal Account Activity
+### 👤 Personal Development Dashboard
 
-My personal development statistics and project overview:
+<div align="center">
+  <h3>🎨 Personal Project Metrics</h3>
+  
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Meenapintu">
+          <img src="https://github-readme-stats.herokuapp.com/api?username=Meenapintu&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=false" alt="Meena Pintu's GitHub Stats" />
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Meenapintu">
+          <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Meenapintu&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&langs_count=8" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
+---
+
+## 🔥 GitHub Contribution Graph
+
+<div align="center">
+  <h3>📅 Contribution Timeline</h3>
+  
+  <!-- Personal Account Contributions -->
+  <p><strong>@MeenaPintu - Personal Contributions</strong></p>
   <a href="https://github.com/Meenapintu">
-    <img src="https://github-readme-stats.herokuapp.com/api?username=Meenapintu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Meena Pintu's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Meenapintu&theme=tokyonight&hide_border=false&border_radius=8" alt="Meena Pintu's Contribution Streak" width="100%" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Meenapintu">
-    <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Meenapintu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack & Skills
 
-### **Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<div align="center">
 
-### **Frameworks & Libraries**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+### 🔤 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### **Developer Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### 🛠️ Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## 📊 Contribution Insights
-
-- 🔥 **Corporate Contributions**: 174+ professional commits and active contributions
-- 💻 **Personal Projects**: Building innovative solutions and open-source contributions
-- 📚 **Continuous Integration**: Dedicated to maintaining code quality and best practices
-- 🤝 **Collaboration**: Open to contributing and collaborating on meaningful projects
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## 🎯 About This Profile
 
-<p align="center">
-  <a href="https://github.com/Meenapintu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://github.com/pintu-lal" target="_blank">
-    <img src="https://img.shields.io/badge/Corporate%20GitHub-pintu--lal-181717?style=flat-square&logo=github&logoColor=white" alt="Corporate GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/meena-pintu" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/MeenaPintu" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
+| Aspect | Details |
+|--------|---------|
+| 💼 **Professional Account** | [@pintu-lal](https://github.com/pintu-lal) - Corporate workspace activity visible |
+| 🎓 **Personal Account** | [@MeenaPintu](https://github.com/Meenapintu) - Personal projects & learning |
+| 🔒 **Security** | ✅ No PATs | ✅ No GitHub Actions | ✅ No Email Sharing |
+| 📈 **Contributions** | 174+ Professional Commits | Active & Consistent Growth |
+| 🌟 **Focus** | Scalable Solutions • Clean Code • Best Practices • Open Source |
 
 ---
 
-## 🎯 Current Focus
+## 🏆 Key Highlights
 
-- 🚀 Building scalable backend systems and APIs
-- 🔍 Exploring modern web technologies and frameworks
-- 📖 Documenting my learning journey and sharing knowledge
-- 🌟 Contributing to open-source projects
-
----
-
-## 📈 Statistics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meenapintu&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+- 🔥 **174+ Professional Contributions** displayed on corporate GitHub profile
+- 💻 **Full-Stack Developer** experienced in modern web & backend technologies
+- 📚 **Continuous Learner** staying updated with latest tech trends
+- 🤝 **Collaborative Developer** passionate about open-source contributions
+- ⚡ **Performance-Oriented** dedicated to writing efficient, scalable code
+- 📖 **Documentation First** believer in clear, maintainable code
 
 ---
 
-## 💬 Let's Connect!
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![GitHub - Personal](https://img.shields.io/badge/GitHub-Personal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meenapintu)
+[![GitHub - Corporate](https://img.shields.io/badge/GitHub-Corporate%20%28pintu--lal%29-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pintu-lal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/meena-pintu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MeenaPintu)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pintulalmee@gmail.com)
+
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔨 Building scalable backend systems and microservices
+- 🎨 Crafting beautiful, responsive web applications
+- 📊 Exploring AI/ML integration in modern applications
+- 📖 Contributing to open-source projects
+- 💡 Learning new frameworks and technologies
+- 🌍 Building products that impact the world
+
+---
+
+## 📈 Activity Statistics
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Meenapintu&color=blueviolet&style=plastic" alt="Profile Views" />
+  <br><br>
+  
+  <img src="https://img.shields.io/badge/Profile%20Updated-September%202024-brightgreen?style=flat-square" alt="Last Updated" />
+  <img src="https://img.shields.io/badge/Status-Active%20%F0%9F%9F%A2-brightgreen?style=flat-square" alt="Status" />
+</div>
+
+---
+
+## 💬 Let's Build Something Amazing Together!
 
 I'm always excited to:
-- 🤝 Collaborate on interesting projects
-- 💡 Discuss new ideas and technologies
-- 📚 Share knowledge and learn together
-- 🎓 Help others with their development journey
+- 🤝 **Collaborate** on interesting and impactful projects
+- 💡 **Discuss** new ideas, technologies, and best practices
+- 📚 **Share** knowledge and learn from the community
+- 🎓 **Mentor** and help others with their development journey
+- 🌟 **Contribute** to open-source initiatives
 
-Feel free to reach out and let's build something amazing together!
+Feel free to reach out, explore my repositories, or collaborate on a project!
 
 ---
 
-<p align="center">
-  <em>Last Updated: September 12, 2024</em>
-</p>
+<div align="center">
+  
+  ### ⭐ If you find my work interesting, consider giving it a star!
+  
+  <img src="https://img.shields.io/static/v1?label=Made%20with&message=%E2%9D%A4%EF%B8%8F&color=red&style=flat-square" alt="Made with Love" />
+  
+  <p><em>Last Updated: September 12, 2024</em></p>
+  
+</div>
