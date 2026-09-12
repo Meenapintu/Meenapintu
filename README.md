@@ -206,6 +206,7 @@
 </div>
 
 **Account**: [@Meenapintu](https://github.com/Meenapintu) • **Focus**: Personal projects, AI research, and learning
+
 ---
 
 ## 🎯 Featured Projects & Open Source
