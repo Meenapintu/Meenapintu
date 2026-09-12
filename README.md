@@ -21,7 +21,7 @@
 | Profile | Type | Focus |
 |---------|------|-------|
 | [![@Meenapintu](https://img.shields.io/badge/GitHub-@Meenapintu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meenapintu) | **Personal Account** | Personal projects, ML, AI, Learning |
-| [![@pintu-lal](https://img.shields.io/badge/GitHub-@pintu--lal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pintu-lal) | **Professional Account** | Corporate work, 174+ contributions |
+| [![@pintu-lal](https://img.shields.io/badge/GitHub-@pintu--lal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pintu-lal) | **Professional Account** | Corporate work |
 | [![@yehigo](https://img.shields.io/badge/GitHub-@yehigo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yehigo) | **Organization** | Kineti AI Platform, collaborative work |
 
 </div>
@@ -40,7 +40,7 @@
 
 ## 🏢 Career Highlights
 
-### 🏛️ **Amazon Hyderabad** | Senior Software Engineer II (Technical Lead, SDE3 Scope)
+### 🏛️ **Amazon Hyderabad** | Software Engineer II (Technical Lead, SDE3 Scope)
 **Feb 2019 - Jul 2024** | 5.5 Years
 
 #### 🎯 **Federated Platform Transformation** (Org-Wide Initiative)
@@ -197,21 +197,6 @@
 
 ---
 
-### 👤 Personal Projects Metrics ([@Meenapintu](https://github.com/Meenapintu))
-
-<div align="center">
-  <a href="https://github.com/Meenapintu">
-    <img src="https://github-readme-stats.herokuapp.com/api?username=Meenapintu&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=false" alt="Meena Pintu's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/Meenapintu">
-    <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Meenapintu&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&langs_count=8" alt="Top Languages" width="48%" />
-  </a>
-</div>
-
-**Account**: [@Meenapintu](https://github.com/Meenapintu) • **Focus**: Personal projects, AI research, and learning
-
----
-
 ### 🔥 Personal Contribution Streak ([@Meenapintu](https://github.com/Meenapintu))
 
 <div align="center">
@@ -220,18 +205,7 @@
   </a>
 </div>
 
----
-
-### 🚀 Organization Account ([@yehigo](https://github.com/yehigo))
-
-<div align="center">
-  <a href="https://github.com/yehigo">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=yehigo&theme=tokyonight&hide_border=false&border_radius=8" alt="yehigo Organization Streak" width="100%" />
-  </a>
-</div>
-
-**Organization**: [@yehigo](https://github.com/yehigo) • **Focus**: Kineti AI Platform & collaborative projects
-
+**Account**: [@Meenapintu](https://github.com/Meenapintu) • **Focus**: Personal projects, AI research, and learning
 ---
 
 ## 🎯 Featured Projects & Open Source
