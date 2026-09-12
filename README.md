@@ -12,86 +12,45 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 
 ---
 
-## 📊 Contribution Analytics
-
-### 🔥 Year-Round Activity Overview
-
-<div align="center">
-  <h3>📅 1,803 Contributions in the Last Year</h3>
-  
-  **Your contribution heatmap shows consistent work across all days of the week!**
-  
-  | Mon | Wed | Fri |
-  |-----|-----|-----|
-  | 🟩 | 🟩 | 🟩 |
-  | Actively contributing across all weekdays with varying intensity |
-</div>
-
----
+## 📊 GitHub Statistics
 
 ### 🏢 Corporate Workspace Performance
 
 <div align="center">
-  <h3>📈 Professional Growth Journey</h3>
+  <h3>📈 Professional Growth Journey (@pintu-lal)</h3>
   <a href="https://github.com/pintu-lal">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=pintu-lal&theme=tokyonight&hide_border=false&border_radius=8&date_format=j%20M%5B%20Y%5D" alt="pintu-lal's Contribution Streak" width="100%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=pintu-lal&theme=tokyonight&hide_border=false&border_radius=8" alt="pintu-lal's Contribution Streak" width="100%" />
   </a>
 </div>
 
-**Corporate Account**: @pintu-lal | **Public Contributions**: 174+ | **Streak Status**: Active 🔥
+**Corporate Account**: @pintu-lal | **Streak Status**: Active 🔥
 
 ---
 
 ### 👤 Personal Development Dashboard
 
 <div align="center">
-  <h3>🎨 Personal Project Metrics</h3>
-  
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Meenapintu">
-          <img src="https://github-readme-stats.herokuapp.com/api?username=Meenapintu&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=false" alt="Meena Pintu's GitHub Stats" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Meenapintu">
-          <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Meenapintu&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&langs_count=8" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <h3>🎨 Personal Project Metrics (@MeenaPintu)</h3>
 </div>
 
----
-
-## 🔥 Contribution Streaks & Performance
-
 <div align="center">
-  <h3>📅 Contribution Timeline</h3>
-  
-  <!-- Personal Account Contributions -->
-  <p><strong>@MeenaPintu - Personal Contributions</strong></p>
   <a href="https://github.com/Meenapintu">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Meenapintu&theme=tokyonight&hide_border=false&border_radius=8" alt="Meena Pintu's Contribution Streak" width="100%" />
+    <img src="https://github-readme-stats.herokuapp.com/api?username=Meenapintu&show_icons=true&theme=tokyonight&hide_border=false&border_radius=8&count_private=false" alt="Meena Pintu's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/Meenapintu">
+    <img src="https://github-readme-stats.herokuapp.com/api/top-langs/?username=Meenapintu&layout=compact&theme=tokyonight&hide_border=false&border_radius=8&langs_count=8" alt="Top Languages" width="48%" />
   </a>
 </div>
 
 ---
 
-## 💡 Activity Insights
+## 🔥 Personal Contribution Performance
 
 <div align="center">
-
-| Metric | Status |
-|--------|--------|
-| **Total Contributions (Last Year)** | 1,803 🎯 |
-| **Commit Activity** | 99% 💪 |
-| **Code Review** | Regular 👀 |
-| **Pull Requests** | Active 🔀 |
-| **Primary Repositories** | resume, credit_management, yehigo.github.io |
-| **Day Wise Distribution** | Mon 📊 Wed 📊 Fri 📊 |
-
+  <h3>📅 Contribution Streak (@MeenaPintu)</h3>
+  <a href="https://github.com/Meenapintu">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Meenapintu&theme=tokyonight&hide_border=false&border_radius=8" alt="Meena Pintu's Contribution Streak" width="100%" />
+  </a>
 </div>
 
 ---
@@ -129,50 +88,26 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong focus on 
 
 ---
 
-## 📈 Contribution Breakdown
-
-<div align="center">
-
-### Day-Wise Activity Pattern
-```
-Mon   Wed   Fri
- █     █     █    Consistent weekly contributions
- █     █     █    Strong commitment across all days
- █     █     █    Balanced development schedule
-```
-
-### Contribution Quality
-- **Commits**: 99% - Highly active commit contributor
-- **Issues**: 1% - Focused on code delivery
-- **Pull Requests**: Regular reviews and merges
-
-</div>
-
----
-
 ## 🎯 About This Profile
 
 | Aspect | Details |
 |--------|---------|
-| 💼 **Professional Account** | [@pintu-lal](https://github.com/pintu-lal) - Corporate workspace activity visible |
+| 💼 **Professional Account** | [@pintu-lal](https://github.com/pintu-lal) - Corporate workspace activity |
 | 🎓 **Personal Account** | [@MeenaPintu](https://github.com/Meenapintu) - Personal projects & learning |
 | 🔒 **Security** | ✅ No PATs | ✅ No GitHub Actions | ✅ No Email Sharing |
-| 📈 **Annual Contributions** | 1,803 Contributions | Strong & Consistent Growth |
 | 🌟 **Focus** | Scalable Solutions • Clean Code • Best Practices • Open Source |
-| 🏆 **Repositories** | resume • credit_management • yehigo.github.io • & 8 others |
+| 🏆 **Repositories** | Multiple projects across personal & professional domains |
 
 ---
 
 ## 🏆 Key Highlights
 
-- 🔥 **1,803 Annual Contributions** - Consistent daily/weekly development
-- 📊 **Day-Wise Heatmap** - Active across Mon, Wed, Fri with varying intensity
 - 💻 **Full-Stack Developer** experienced in modern web & backend technologies
 - 📚 **Continuous Learner** staying updated with latest tech trends
 - 🤝 **Collaborative Developer** passionate about open-source contributions
-- 💡 **99% Commits Focus** - Delivery-oriented approach
 - ⚡ **Performance-Oriented** dedicated to writing efficient, scalable code
 - 📖 **Documentation First** believer in clear, maintainable code
+- 🔄 **Active Contributor** with consistent development momentum
 
 ---
 
@@ -198,22 +133,16 @@ Mon   Wed   Fri
 - 📖 Contributing to open-source projects
 - 💡 Learning new frameworks and technologies
 - 🌍 Building products that impact the world
-- 🔄 Maintaining consistent contribution streaks
 
 ---
 
 ## 📈 Recent Activity
 
-### 🎯 Current Focus (September 2026)
-- Contributing to multiple repositories including:
-  - **Meenapintu/resume** - Professional portfolio
-  - **Meenapintu/credit_management** - Financial tracking system
-  - **yehigo/yehigo.github.io** - Web development projects
-
-### 💬 Community Involvement
-- Active contributor across multiple projects
-- Engaged in code reviews and pull request discussions
-- Supporting the development community
+Contributing across multiple repositories with a focus on:
+- Professional portfolio development
+- Financial tracking systems
+- Web development projects
+- Open-source initiatives
 
 ---
 
@@ -236,8 +165,6 @@ Feel free to reach out, explore my repositories, or collaborate on a project!
   
   <img src="https://img.shields.io/static/v1?label=Made%20with&message=%E2%9D%A4%EF%B8%8F&color=red&style=flat-square" alt="Made with Love" />
   
-  <p><em>Last Updated: September 12, 2026</em></p>
-  
-  **1,803 contributions in the last year - Let's keep building! 🚀**
+  <p><em>Last Updated: September 2024</em></p>
   
 </div>
