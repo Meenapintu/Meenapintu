@@ -7,9 +7,22 @@
   </p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meenapintu/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meenapintu)
   [![Portfolio](https://img.shields.io/badge/Portfolio-me.yehigo.com-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://me.yehigo.com/)
   [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-4285F4?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/Meenapintu/resume/blob/main/resume_2page.pdf)
+</div>
+
+---
+
+## 🔗 My GitHub Profiles
+
+<div align="center">
+
+| Profile | Type | Focus |
+|---------|------|-------|
+| [![@Meenapintu](https://img.shields.io/badge/GitHub-@Meenapintu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meenapintu) | **Personal Account** | Personal projects, ML, AI, Learning |
+| [![@pintu-lal](https://img.shields.io/badge/GitHub-@pintu--lal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pintu-lal) | **Professional Account** | Corporate work, 174+ contributions |
+| [![@yehigo](https://img.shields.io/badge/GitHub-@yehigo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yehigo) | **Organization** | Team projects, collaborative work |
+
 </div>
 
 ---
@@ -51,7 +64,7 @@ Currently, I'm developing **AI-powered applications** that transform video creat
 
 ## 📊 My GitHub Statistics
 
-### 🏢 Professional Performance (@pintu-lal)
+### 🏢 Professional Performance ([@pintu-lal](https://github.com/pintu-lal))
 
 <div align="center">
   <a href="https://github.com/pintu-lal">
@@ -59,9 +72,11 @@ Currently, I'm developing **AI-powered applications** that transform video creat
   </a>
 </div>
 
+**Account**: [@pintu-lal](https://github.com/pintu-lal) • **Focus**: Corporate workspace & professional contributions
+
 ---
 
-### 👤 Personal Projects Metrics
+### 👤 Personal Projects Metrics ([@Meenapintu](https://github.com/Meenapintu))
 
 <div align="center">
   <a href="https://github.com/Meenapintu">
@@ -72,15 +87,29 @@ Currently, I'm developing **AI-powered applications** that transform video creat
   </a>
 </div>
 
+**Account**: [@Meenapintu](https://github.com/Meenapintu) • **Focus**: Personal projects, learning, and experimentation
+
 ---
 
-### 🔥 Personal Contribution Streak
+### 🔥 Personal Contribution Streak ([@Meenapintu](https://github.com/Meenapintu))
 
 <div align="center">
   <a href="https://github.com/Meenapintu">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=Meenapintu&theme=tokyonight&hide_border=false&border_radius=8" alt="Meena Pintu's Contribution Streak" width="100%" />
   </a>
 </div>
+
+---
+
+### 🚀 Organization Account ([@yehigo](https://github.com/yehigo))
+
+<div align="center">
+  <a href="https://github.com/yehigo">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=yehigo&theme=tokyonight&hide_border=false&border_radius=8" alt="yehigo Organization Streak" width="100%" />
+  </a>
+</div>
+
+**Organization**: [@yehigo](https://github.com/yehigo) • **Focus**: Collaborative projects and organizational work
 
 ---
 
