@@ -2,13 +2,14 @@
 
 <div align="center">
   <p>
-    <strong>Full-Stack Engineer | AI Enthusiast | Software Innovator</strong><br>
-    <em>Building scalable solutions that solve real-world problems</em>
+    <strong>Senior Software Engineer | Platform Architect | Technical Leader</strong><br>
+    <em>8+ Years | Distributed Systems • AI • Generative AI • Platform Engineering</em>
   </p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meenapintu/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-me.yehigo.com-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://me.yehigo.com/)
   [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-4285F4?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/Meenapintu/resume/blob/main/resume_2page.pdf)
+  [![Email](https://img.shields.io/badge/Email-me.pintu@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.pintu@outlook.com)
 </div>
 
 ---
@@ -21,44 +22,194 @@
 |---------|------|-------|
 | [![@Meenapintu](https://img.shields.io/badge/GitHub-@Meenapintu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meenapintu) | **Personal Account** | Personal projects, ML, AI, Learning |
 | [![@pintu-lal](https://img.shields.io/badge/GitHub-@pintu--lal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pintu-lal) | **Professional Account** | Corporate work, 174+ contributions |
-| [![@yehigo](https://img.shields.io/badge/GitHub-@yehigo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yehigo) | **Organization** | Team projects, collaborative work |
+| [![@yehigo](https://img.shields.io/badge/GitHub-@yehigo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yehigo) | **Organization** | Kineti AI Platform, collaborative work |
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 📋 Professional Summary
 
-I'm a **curious learner, software engineer, and lifelong tinkerer** with experience in designing, building, and deploying scalable solutions. I thrive on challenges, enjoy exploring new stacks, and collaborate across teams to bring ambitious ideas to life.
+**Senior Software Engineer & Architect** with **8+ years** of experience designing distributed platforms, payment systems, and generative AI architectures. I don't just build isolated solutions—I architect for **extensibility and 100X scale** by identifying patterns and developing optimized, reusable components.
 
-Currently, I'm developing **AI-powered applications** that transform video creation and visual content generation. Passionate about engineering excellence, continuous learning, and contributing to the open-source community.
+**Philosophy**: Build systems that scale, maintain, and evolve. Transform fragmented services into unified, plugin-based platforms. Enable teams to move faster by reducing friction.
+
+**Impact**: Transformed legacy payment infrastructure into modern microservices • Reduced feature launch effort by **50%** • Mentored 12+ engineers across 6 cross-functional teams • Architected production-grade AI pipelines at scale
 
 ---
 
-## 💡 What I Do
+## 🏢 Career Highlights
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🏗️ Engineering Excellence</h3>
-      <p>Design, code, and maintain robust web and backend systems for reliability and scale.</p>
-    </td>
-    <td width="50%">
-      <h3>🤖 AI & Innovation</h3>
-      <p>Develop cutting-edge AI applications including text-to-video generation with audio, subtitles & sharing.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>📚 Learning & Exploring</h3>
-      <p>Push boundaries with new tools, frameworks, and open-source collaborations.</p>
-    </td>
-    <td width="50%">
-      <h3>🤝 Sharing & Connecting</h3>
-      <p>Publish code, research, and resources. Grow network through meaningful collaborations.</p>
-    </td>
-  </tr>
-</table>
+### 🏛️ **Amazon Hyderabad** | Senior Software Engineer II (Technical Lead, SDE3 Scope)
+**Feb 2019 - Jul 2024** | 5.5 Years
+
+#### 🎯 **Federated Platform Transformation** (Org-Wide Initiative)
+- **Challenge**: Fragmented service with ambiguous ownership, cross-team dependencies, and poor visibility
+- **Solution**: Architected a unified, multi-tenant, plugin-based platform with clear ownership boundaries
+- **Impact**: 
+  - ✅ **50% reduction** in new feature launch effort
+  - ✅ **7% increase** in Conversion Rate (Scan-&-Pay)
+  - ✅ **1.8% reduction** in user aborts (Send Money)
+  - ✅ **7.28% increase** in ASR (Send Money)
+  - ✅ **100% visibility** into customer journey with BI insights
+
+#### 🏗️ **Distributed Systems & Scalable Caching Architecture**
+- Migrated high-volume monolithic services to AWS-hosted microservices
+- Designed storage-agnostic caching framework (Decorator pattern) with L1/L2 levels
+- **Achievement**: 53% reduction in P90 latency for critical payment paths
+- Built automated, pluggable update strategies for cache invalidation
+
+#### ⚡ **Performance Optimization at Scale**
+- **P90 Latency Reduction**:
+  - Android: 5s → 540ms (90% improvement)
+  - iOS: 85% improvement
+- Optimized authentication and access-control paths
+- Streamlined backend, mobile (Android/iOS), and frontend layers
+
+#### 👔 **Technical Leadership & Mentorship**
+- Led **6 cross-functional teams** with **12+ engineers**
+- Eliminated ownership gaps and cross-team dependencies
+- Mentored engineers on system design, distributed systems, and platform thinking
+- Improved collaboration across **100+ stakeholders**
+
+#### 🚀 **Deployment Automation & Scalability**
+- Architected safe, Full Continuous Deployment (CD) pipelines for distributed services
+- Designed data-driven auto-scaling strategy for peak traffic (IPL, Prime Day, Diwali)
+- **Result**: Eliminated manual dependency calculations, saved days of engineering effort
+- Templatized scaling strategy for org-wide adoption
+
+#### 📊 **Observability & Operational Excellence**
+- Standardized service monitoring metrics across platform
+- Pioneered auto-dashboarding solutions reducing on-call triage time by 60%+
+- Revamped testing infrastructure for parallel, independent testing
+- Removed major developer bottlenecks in QA workflows
+
+#### 🔐 **Security, Compliance & Long-Term Strategy**
+- Implemented high-security storage for iOS with advanced data protection
+- Authored and presented multi-year technical strategy to org leadership
+- Served as POC for regulatory audits and compliance
+- Automated stress testing and CI/CD security pipelines
+
+---
+
+### 🤖 **YehiGo Technologies** | Founder & Chief Architect
+**2024 - Present** | AI Platform Startup
+
+#### 🎬 **Kineti Platform** - Production-Grade Generative AI
+**Next-Gen Text-to-Video Platform with Autonomous Intelligence**
+
+- **Architecture**: Cloud-native, queue-driven microservices for compute-intensive ML workloads
+- **Security**: End-to-end encrypted P2P communication using Signal Protocol
+
+#### 🧠 **Autonomous Research-to-Script Intelligence**
+- Designed agentic pipeline performing live internet search for topics
+- Synthesizes information from multiple external documents
+- Generates structured, long-form scripts for video generation
+- **Innovation**: Multi-hop reasoning with fact verification
+
+#### 🎨 **Multimodal Model Orchestration**
+- **Text LLMs**: LLaMA, Qwen with proprietary prompt-engineering
+- **Visual Generation**: Stable Diffusion + LoRA fine-tuning
+- **Neural Audio**: Kokoro, Coqui TTS integration
+- **Result**: Unified multimedia pipeline for story-driven automation
+
+#### ☁️ **Scalable, Secure Cloud Infrastructure**
+- Designed auto-scaling microservices for peak video generation loads
+- Implemented queue-driven job orchestration
+- P2P encryption for user data privacy and trust
+
+---
+
+### 📱 **PicoStone** | Software Engineer
+**Mar 2017 - Aug 2018** | IoT & Embedded Systems
+
+#### 🤖 **ML-Driven Device Intelligence**
+- Semi-supervised learning for AC remote training
+- **Achievement**: 62.5% faster model convergence, 87.5% less training data required
+
+#### 📡 **OTA Firmware & Fleet Management**
+- Architected secure Over-The-Air (OTA) firmware update system
+- Managed **1,000+ device fleet** with **99.99% update reliability**
+- Centralized rollout control with automated rollback
+
+#### 📊 **Time-Series Data Processing**
+- Implemented interpolation-based recovery for missing energy telemetry
+- Multi-resolution data retention strategy (per-second → per-minute → per-hour)
+- **Result**: Improved analytics accuracy, prevented browser crashes on large queries
+
+#### 👨‍💼 **Platform Leadership**
+- Led 3-person engineering team
+- Designed & shipped embedded IoT products (Polar, IRStone) on FreeRTOS
+- **Achievement**: 50% data compression, modular firmware reuse, 99.99% availability
+
+---
+
+## 🛠️ Technical Expertise
+
+### 🏗️ **Distributed Systems & Platform Engineering**
+- System Design & Architecture
+- Microservices & Service-Oriented Architecture
+- Distributed Caching & Storage Abstraction
+- Observability, Monitoring & Alerting
+- Performance Optimization & Scalability
+- Authentication, Authorization & Access Control
+- API Design & Documentation
+- Database Design (SQL, NoSQL)
+
+### 🤖 **AI & Generative AI**
+- Agentic Workflows & Autonomous Reasoning
+- Multi-modal LLM Orchestration (LLaMA, Qwen, ChatGPT)
+- Retrieval-Augmented Generation (RAG)
+- Diffusion Models & Image Generation (Stable Diffusion)
+- Prompt Engineering & Fine-tuning
+- Time-Series Data Processing & Forecasting
+- ML Pipeline Design & Deployment
+
+### ☁️ **Cloud & Infrastructure**
+- AWS (EC2, S3, SQS, Lambda, API Gateway, CloudFormation)
+- Docker & Container Orchestration
+- CI/CD Pipelines & GitOps
+- Infrastructure as Code
+- Monitoring & Logging (CloudWatch, Datadog)
+- Auto-scaling & Load Balancing
+
+### 💻 **Languages & Technologies**
+- **Languages**: C++, Java, Python, JavaScript/TypeScript, SQL
+- **Foundations**: Data Structures, Algorithms, Operating Systems, DBMS, OOP
+- **Embedded**: FreeRTOS, Firmware Development
+- **Protocols**: Signal Protocol, gRPC, REST APIs
+
+---
+
+## 💡 Tech Stack & Skills
+
+### 🔤 Languages & Foundations
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🚀 Frameworks & Platforms
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🤖 AI & ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-624E88?style=for-the-badge)
+![Diffusion](https://img.shields.io/badge/Diffusion%20Models-4C72B0?style=for-the-badge)
 
 ---
 
@@ -72,7 +223,7 @@ Currently, I'm developing **AI-powered applications** that transform video creat
   </a>
 </div>
 
-**Account**: [@pintu-lal](https://github.com/pintu-lal) • **Focus**: Corporate workspace & professional contributions
+**Account**: [@pintu-lal](https://github.com/pintu-lal) • **Focus**: Corporate work & professional contributions
 
 ---
 
@@ -87,7 +238,7 @@ Currently, I'm developing **AI-powered applications** that transform video creat
   </a>
 </div>
 
-**Account**: [@Meenapintu](https://github.com/Meenapintu) • **Focus**: Personal projects, learning, and experimentation
+**Account**: [@Meenapintu](https://github.com/Meenapintu) • **Focus**: Personal projects, AI research, and learning
 
 ---
 
@@ -109,122 +260,97 @@ Currently, I'm developing **AI-powered applications** that transform video creat
   </a>
 </div>
 
-**Organization**: [@yehigo](https://github.com/yehigo) • **Focus**: Collaborative projects and organizational work
+**Organization**: [@yehigo](https://github.com/yehigo) • **Focus**: Kineti AI Platform & collaborative projects
 
 ---
 
-## 💼 Professional Experience
+## 🎯 Featured Projects & Open Source
 
-| Role | Expertise | Focus Areas |
-|------|-----------|-------------|
-| **Full-Stack Engineer** | Web & Backend Systems | Scalable architecture, microservices, API design |
-| **AI Developer** | Machine Learning & AI | Computer vision, NLP, text-to-video generation |
-| **Open Source Contributor** | Community & Collaboration | Building tools, sharing knowledge, team collaboration |
+### 🎬 **Kineti AI Platform** | Text-to-Video Generation
+**Founder & Chief Architect**  
+Production-grade generative AI platform combining agentic workflows, multi-modal LLM orchestration, and secure cloud infrastructure.  
+[Explore Project](https://github.com/yehigo)
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### 🔤 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🤖 AI & ML Tools
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🎬 AI-Powered Video Application
-**Next-gen video creation tool**  
-Transform text into engaging videos with AI-generated audio, subtitles, and seamless sharing  
-[Explore Project](https://github.com/Meenapintu)
-
-### 💳 Credit Management System
-**Financial tracking & analysis**  
-Personal finance management with advanced tracking and insights  
+### 💳 **Credit Management Library** | Database-Agnostic AI Billing Engine
+**Author & Maintainer** | 100+ downloads/week  
+Thread-safe credit reservation model with dual-write ledger system preventing LLM overcharging.  
 [View Repository](https://github.com/Meenapintu/credit_management)
 
-### 📊 Data Science & ML Projects
-**Bike-Sharing Systems Prediction | Spam Detection | Travel Cost Optimization**  
-Applied ML models for real-world problem solving  
+### 🎮 **Real-Time Multi-Player Game Engine**
+**Architect** | Fault-Tolerant Gaming Architecture  
+Stateful, automated server-side state machine with autonomous robot logic ensuring 100% session continuity.  
+[Explore Project](https://github.com/Meenapintu)
+
+### 📊 **Data Science & ML Projects**
+**Bike-Sharing Systems Prediction** | **Spam Detection** | **Travel Cost Optimization**  
+Applied ML models solving real-world problems with production-grade implementations.  
 [See All Projects](https://github.com/Meenapintu?tab=repositories)
 
-</div>
+### 🔧 **VS Code Extension - ScriptExtractor**
+**Developer Productivity Tool** | Published on VS Code Marketplace  
+Automates parsing, extraction, and clean separation of tightly coupled inline JavaScript from HTML files.
+
+### 📱 **Eel Framework Contributor**
+**Performance Optimization** | Microsoft Edge App Mode & Legacy IE Support  
+Optimized core desktop GUI library for modern and legacy rendering engines.
 
 ---
 
-## 🎓 Education & Learning
+## 🎓 Education
 
-- 🎯 **Continuous Learning:** Actively exploring cutting-edge technologies
-- 📚 **Data Science & AI:** Machine learning, deep learning, NLP expertise
-- 💻 **Full-Stack Development:** End-to-end web and backend solutions
-- 🔬 **Research & Innovation:** Contributing to open-source and research projects
+**B.Tech in Computer Science & Engineering**  
+Indian Institute of Technology (IIT) Bombay | Jul 2012 - Aug 2017
 
 ---
 
-## 🌟 Key Highlights
+## 🌟 Key Achievements
 
-✨ **Professional Growth**
-- Active contributor with consistent development momentum
-- 174+ professional contributions and growing
-- Expertise across multiple technology stacks
-- Full-stack capability from frontend to backend & AI
+✨ **Leadership & Scale**
+- Led 6 cross-functional teams across distributed systems & payments
+- Mentored 12+ engineers on platform thinking and system design
+- Improved collaboration for 100+ stakeholders
+- Technical Lead with SDE3 scope (Amazon)
 
-🚀 **Innovation Focus**
-- Developing next-generation AI applications
-- Combining software engineering with machine learning
-- Building scalable, production-ready systems
+🏗️ **System Architecture & Design**
+- Transformed fragmented services into unified, plugin-based platform
+- Architected storage-agnostic caching framework
+- Designed cloud-native AI infrastructure for 100X scale
+- Built secure, encrypted P2P communication protocols
 
-🤝 **Community Involvement**
-- Open-source contributor and maintainer
-- Knowledge sharing through code and documentation
-- Collaborative problem-solver
+📈 **Business Impact**
+- 50% reduction in feature launch effort
+- 7% increase in Conversion Rate
+- 1.8% reduction in user aborts
+- 7.28% increase in transaction success rate
+- 90% P90 latency reduction (5s → 540ms)
 
-📈 **Performance**
-- Consistent contribution patterns
-- High code quality and best practices
-- Reliability and dedication to excellence
+🚀 **Innovation & Technical Excellence**
+- Built production-grade AI pipelines (Kineti platform)
+- Designed semi-supervised learning for IoT (62.5% faster convergence)
+- Achieved 99.99% device fleet reliability (1,000+ devices)
+- Created modular, reusable firmware components
+
+🤝 **Community & Open Source**
+- Author of multiple production-ready libraries
+- VS Code Marketplace contributor
+- Open source ecosystem contributor
+- Mentor and knowledge sharer
 
 ---
 
 ## 📬 Let's Connect & Build Together!
 
 I'm always excited about:
-- 🤝 **Collaborating** on innovative and impactful projects
-- 💡 **Discussing** new technologies, ideas, and best practices
-- 📚 **Sharing** knowledge and learning from brilliant minds
-- 🎓 **Mentoring** and supporting the developer community
-- 🌟 **Creating** products that make a real difference
+- 🏗️ **Architecting** distributed systems at scale
+- 🤖 **Building** generative AI products
+- 👔 **Leading** high-performing engineering teams
+- 💡 **Discussing** system design, architecture & tech strategy
+- 🚀 **Creating** products that drive real business impact
 
 <div align="center">
 
-**Ready to work together?**  
-📧 [Email](mailto:pintulalmee@gmail.com) • 💼 [LinkedIn](https://www.linkedin.com/in/meenapintu/) • 🌐 [Portfolio](https://me.yehigo.com/) • 📄 [Resume](https://github.com/Meenapintu/resume/blob/main/resume_2page.pdf)
+**Ready to collaborate?**  
+📧 [Email](mailto:me.pintu@outlook.com) • 💼 [LinkedIn](https://www.linkedin.com/in/meenapintu/) • 🌐 [Portfolio](https://me.yehigo.com/) • 📄 [Resume](https://github.com/Meenapintu/resume/blob/main/resume_2page.pdf)
 
 ---
 
@@ -232,6 +358,6 @@ I'm always excited about:
 
 <img src="https://img.shields.io/static/v1?label=Made%20with&message=%E2%9D%A4%EF%B8%8F&color=red&style=flat-square" alt="Made with Love" />
 
-<p><em>Let's innovate, build, and grow together! 🚀</em></p>
+<p><em>Building systems that scale. Architecting for impact. Leading the next generation of engineers. 🚀</em></p>
 
 </div>
