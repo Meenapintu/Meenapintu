@@ -35,18 +35,6 @@ I design **distributed platforms**, build **AI-powered products**, and help team
 - **Amazon** — Software Engineer II / Technical Lead · Platform engineering
 - **PicoStone** — Software Engineer · IoT and embedded systems
 
-## Selected projects
-
-### 🎬 Kineti AI
-Founded and architected a text-to-video platform bringing research, generative models, and media workflows together.
-
-[Explore YehiGo →](https://github.com/yehigo)
-
-### 💳 Credit Management Library
-A database-agnostic billing engine designed to make AI credit reservations and ledger updates safer.
-
-[View the project →](https://github.com/Meenapintu/credit_management)
-
 ## Elsewhere on GitHub
 
 [Personal projects @Meenapintu](https://github.com/Meenapintu) · [Professional work @pintu-lal](https://github.com/pintu-lal) · [Kineti AI @yehigo](https://github.com/yehigo)
