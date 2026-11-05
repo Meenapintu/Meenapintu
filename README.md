@@ -29,10 +29,16 @@ I design **distributed platforms**, build **AI-powered products**, and help team
 - **7% conversion lift** from a platform transformation
 - **12+ engineers mentored** across cross-functional teams
 
-## What I'm building
+## Where I've worked
+
+- **YehiGo Technologies** — Founder & Chief Architect · AI products
+- **Amazon** — Software Engineer II / Technical Lead · Platform engineering
+- **PicoStone** — Software Engineer · IoT and embedded systems
+
+## Selected projects
 
 ### 🎬 Kineti AI
-Founder and architect of a text-to-video platform bringing research, generative models, and media workflows together.
+Founded and architected a text-to-video platform bringing research, generative models, and media workflows together.
 
 [Explore YehiGo →](https://github.com/yehigo)
 
@@ -40,12 +46,6 @@ Founder and architect of a text-to-video platform bringing research, generative 
 A database-agnostic billing engine designed to make AI credit reservations and ledger updates safer.
 
 [View the project →](https://github.com/Meenapintu/credit_management)
-
-## Where I've worked
-
-- **YehiGo Technologies** — Founder & Chief Architect · AI products
-- **Amazon** — Software Engineer II / Technical Lead · Platform engineering
-- **PicoStone** — Software Engineer · IoT and embedded systems
 
 ## Elsewhere on GitHub
 
