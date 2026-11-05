@@ -1,29 +1,21 @@
-# 👋 Hey there! I'm Pintu Lal Meena
+# Hi, I'm Pintu Lal Meena 👋
 
-<div align="center">
-  <p>
-    <strong>Senior Software Engineer | Platform Architect | Technical Leader</strong><br>
-    <em>8+ Years | Distributed Systems • AI • Generative AI • Platform Engineering</em>
-  </p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meenapintu/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-me.yehigo.com-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://me.yehigo.com/)
-  [![Resume](https://img.shields.io/badge/Resume-Download%20PDF-4285F4?style=for-the-badge&logo=adobe&logoColor=white)](https://github.com/Meenapintu/resume/blob/main/resume_2page.pdf)
-  [![Email](https://img.shields.io/badge/Email-me.pintu@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.pintu@outlook.com)
-</div>
+**Senior Software Engineer · Platform Architect · Technical Leader**
 
----
+I build scalable distributed systems and AI-powered products, and help engineering teams turn complex problems into reliable platforms.
 
-## 🔗 My GitHub Profiles
+[LinkedIn](https://www.linkedin.com/in/meenapintu/) · [Portfolio](https://me.yehigo.com/) · [Resume](https://github.com/Meenapintu/resume/blob/main/resume_2page.pdf) · [Email](mailto:me.pintu@outlook.com)
 
-<div align="center">
+### What I work on
+- Distributed systems, platform engineering, and cloud infrastructure
+- Generative AI and multimodal product architectures
+- Technical leadership, system design, and engineering enablement
 
-| Profile | Type | Focus |
-|---------|------|-------|
-| [![@Meenapintu](https://img.shields.io/badge/GitHub-@Meenapintu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Meenapintu) | **Personal Account** | Personal projects[...] |
-| [![@pintu-lal](https://img.shields.io/badge/GitHub-@pintu--lal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pintu-lal) | **Professional Account** | Corporate work [...] |
-| [![@yehigo](https://img.shields.io/badge/GitHub-@yehigo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yehigo) | **Organization** | Kineti AI Platform, collaborative[...] |
-
-</div>
+### Find me on GitHub
+- [@Meenapintu](https://github.com/Meenapintu) — personal projects
+- [@pintu-lal](https://github.com/pintu-lal) — professional work
+- [@yehigo](https://github.com/yehigo) — Kineti AI
 
 ---
+
+*Building systems that scale and products that make an impact.* 🚀
